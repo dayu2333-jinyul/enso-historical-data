@@ -1,5 +1,8 @@
 # ENSO Historical Dataset (1950–2026)
 
+[![DOI](https://zenodo.org/badge/DOI/21717522.svg)](https://doi.org/10.5281/zenodo.21717522)
+[![npm](https://img.shields.io/npm/v/enso-historical-data)](https://www.npmjs.com/package/enso-historical-data)
+
 > Comprehensive monthly El Niño Southern Oscillation (ENSO) data — 126 months across 8 major El Niño/La Niña events, with ONI values, SOI, and subsurface temperature anomalies.
 
 This dataset provides monthly-resolution Oceanic Niño Index (ONI), Southern Oscillation Index (SOI), and subsurface temperature anomaly data for every significant ENSO event since 1950, including the 2023–24 Super El Niño and emerging 2026 conditions.
